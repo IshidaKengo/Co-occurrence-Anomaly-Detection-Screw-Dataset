@@ -1,4 +1,4 @@
-# Co-occurrence-Anomlay-Screw-dataset
+# Co-occurrence-Anomlay-Screw-Dataset
 
 This repository contains "Co-occurrence Anomlay Screw Dataset" for anomaly detection, including local anomalies and co-occurrence anomalies.
 
