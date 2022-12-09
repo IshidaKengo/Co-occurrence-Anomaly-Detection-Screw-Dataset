@@ -1,6 +1,6 @@
-# Co-occurrence-Anomlay-Detection-Screw-Dataset (CAD-SD)
+# Co-occurrence-Anomaly-Detection-Screw-Dataset (CAD-SD)
 
-This repository contains "Co-occurrence Anomlay Detection Screw Dataset (CAD-SD)" for anomaly detection, including local anomalies and co-occurrence anomalies.
+This repository contains "Co-occurrence Anomaly Detection Screw Dataset (CAD-SD)" for anomaly detection, including local anomalies and co-occurrence anomalies.
 
 **The dataset is available is this [[Link](https://drive.google.com/drive/folders/1yeampzTiB4uoTmmqIZkeCdMIXGujl3cU?usp=sharing)].**
 
